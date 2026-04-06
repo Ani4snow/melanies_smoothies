@@ -1,4 +1,5 @@
 # Import python packages
+pip install --upgrade snowflake-snowpark-python
 import streamlit as st
 from snowflake.snowpark.functions import col
 
